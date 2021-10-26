@@ -42,14 +42,14 @@ How to compile and run the program:
   
   OR
   
-  How to compile
+  **How to compile**
 
   make
 
 
 **Step-3** :
 ---------
- How to run this program:
+**How to run this program**
 
 ernesto_cesaro_theorem$ ./pie
 
